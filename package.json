@@ -1,6 +1,6 @@
 {
   "name": "keybase-encrypt",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "Encrypt a message was based on a public key",
   "main": "lib/index.js",
   "scripts": {
